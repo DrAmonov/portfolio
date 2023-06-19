@@ -15,6 +15,7 @@ function About() {
 			<div className="bg-zinc-900 px-[138px] py-5 text-white">
 				<h3 className="text-xl">PERSONAL INFO</h3>
 				<p className="my-5">
+					ADAWWWWWWWWWWWWWWWWWWW
 					I'm a Freelance Web Designer & Developer based in Moscow, Russia. I
 					have serious passion for UI effects, animations and creating
 					intuitive, with over a decade of experience.
